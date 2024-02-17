@@ -2,7 +2,7 @@
 
 This Flutter app utilizes GraphQL to fetch and display a list of anime titles with details. The app is designed to demonstrate how to integrate GraphQL into a Flutter application for efficient data retrieval.
 
-For a detailed guide on the implementation process and code explanation, please refer to the [accompanying Medium article](your-medium-article-link).
+For a detailed guide on the implementation process and code explanation, please refer to the [Powering Flutter Apps with GraphQL](https://p4yam.medium.com/powering-flutter-apps-with-graphql-unleashing-efficient-data-queries-6ca8d65a80c1).
 
 ## Getting Started
 
